@@ -1,0 +1,488 @@
+BooksAndHTML Results:
+
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/melville.txt.hf
+melville.txt from	 82140 to	 47364 in	 0.218
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/A7_Recursion.html.hf
+A7_Recursion.html from	 41163 to	 26189 in	 0.094
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/jnglb10.txt.hf
+jnglb10.txt from	 292059 to	 168618 in	 0.584
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/ThroughTheLookingGlass.txt.hf
+ThroughTheLookingGlass.txt from	 188199 to	 110293 in	 0.361
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/syllabus.htm.hf
+syllabus.htm from	 33273 to	 21342 in	 0.070
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/revDictionary.txt.hf
+revDictionary.txt from	 1130523 to	 611618 in	 2.134
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/CiaFactBook2000.txt.hf
+CiaFactBook2000.txt from	 3497369 to	 2260664 in	 7.215
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/kjv10.txt.hf
+kjv10.txt from	 4345020 to	 2489768 in	 7.764
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/rawMovieGross.txt.hf
+rawMovieGross.txt from	 117272 to	 53833 in	 0.172
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/quotes.htm.hf
+quotes.htm from	 61563 to	 38423 in	 0.121
+--------
+total bytes read: 9788581
+total compressed bytes 5828112
+total percent compression 40.460
+compression time: 18.733
+
+Calgary Results:
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/paper6.hf
+paper6 from	 38105 to	 25057 in	 0.142
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/paper1.hf
+paper1 from	 53161 to	 34371 in	 0.143
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/obj1.hf
+obj1 from	 21504 to	 17085 in	 0.059
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/geo.hf
+geo from	 102400 to	 73592 in	 0.247
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/progc.hf
+progc from	 39611 to	 26948 in	 0.093
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/progl.hf
+progl from	 71646 to	 44017 in	 0.150
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/book1.hf
+book1 from	 768771 to	 439409 in	 1.365
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/progp.hf
+progp from	 49379 to	 31248 in	 0.116
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/pic.hf
+pic from	 513216 to	 107586 in	 0.351
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/news.hf
+news from	 377109 to	 247428 in	 0.763
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/paper4.hf
+paper4 from	 13286 to	 8894 in	 0.029
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/bib.hf
+bib from	 111261 to	 73795 in	 0.226
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/paper3.hf
+paper3 from	 46526 to	 28309 in	 0.090
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/paper2.hf
+paper2 from	 82199 to	 48649 in	 0.154
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/paper5.hf
+paper5 from	 11954 to	 8465 in	 0.027
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/obj2.hf
+obj2 from	 246814 to	 195131 in	 0.610
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/trans.hf
+trans from	 93695 to	 66252 in	 0.312
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/book2.hf
+book2 from	 610856 to	 369335 in	 1.146
+--------
+total bytes read: 3251493
+total compressed bytes 1845571
+total percent compression 43.239
+compression time: 6.023
+
+waterloo result: 
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/waterloo/sail.tif.hf
+sail.tif from	 1179784 to	 1085501 in	 3.736
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/waterloo/monarch.tif.hf
+monarch.tif from	 1179784 to	 1109973 in	 3.602
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/waterloo/clegg.tif.hf
+clegg.tif from	 2149096 to	 2034595 in	 6.792
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/waterloo/lena.tif.hf
+lena.tif from	 786568 to	 766146 in	 2.416
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/waterloo/serrano.tif.hf
+serrano.tif from	 1498414 to	 1127645 in	 3.506
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/waterloo/peppers.tif.hf
+peppers.tif from	 786568 to	 756968 in	 2.388
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/waterloo/tulips.tif.hf
+tulips.tif from	 1179784 to	 1135861 in	 3.657
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/waterloo/frymire.tif.hf
+frymire.tif from	 3706306 to	 2188593 in	 6.866
+--------
+total bytes read: 12466304
+total compressed bytes 10205282
+total percent compression 18.137
+compression time: 32.963
+
+First thing I wanted to see is if a compressed file can be further compressed and if so 
+how bits on avg can we save
+
+Lets run this with waterloo first we get the following data:
+
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/waterloo/sail.tif.hf.hf
+sail.tif.hf from	 1085501 to	 1086679 in	 3.679
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/waterloo/monarch.tif.hf.hf
+monarch.tif.hf from	 1109973 to	 1111386 in	 3.922
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/waterloo/serrano.tif.hf.hf
+serrano.tif.hf from	 1127645 to	 1120034 in	 4.410
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/waterloo/lena.tif.hf.hf
+lena.tif.hf from	 766146 to	 767426 in	 2.573
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/waterloo/clegg.tif.hf.hf
+clegg.tif.hf from	 2034595 to	 2028486 in	 6.575
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/waterloo/frymire.tif.hf.hf
+frymire.tif.hf from	 2188593 to	 2053957 in	 6.707
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/waterloo/tulips.tif.hf.hf
+tulips.tif.hf from	 1135861 to	 1137290 in	 3.663
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/waterloo/peppers.tif.hf.hf
+peppers.tif.hf from	 756968 to	 758099 in	 2.375
+--------
+total bytes read: 10205282
+total compressed bytes 10063357
+total percent compression 1.391
+compression time: 33.904
+
+Books and HTML:
+
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/syllabus.htm.hf.hf
+syllabus.htm.hf from	 21342 to	 21841 in	 0.137
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/A7_Recursion.html.hf.hf
+A7_Recursion.html.hf from	 26189 to	 26340 in	 0.118
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/revDictionary.txt.hf.hf
+revDictionary.txt.hf from	 611618 to	 590850 in	 2.339
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/melville.txt.hf.hf
+melville.txt.hf from	 47364 to	 47551 in	 0.162
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/jnglb10.txt.hf.hf
+jnglb10.txt.hf from	 168618 to	 167167 in	 0.526
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/ThroughTheLookingGlass.txt.hf.hf
+ThroughTheLookingGlass.txt.hf from	 110293 to	 109626 in	 0.346
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/kjv10.txt.hf.hf
+kjv10.txt.hf from	 2489768 to	 2452980 in	 7.939
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/quotes.htm.hf.hf
+quotes.htm.hf from	 38423 to	 39036 in	 0.135
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/rawMovieGross.txt.hf.hf
+rawMovieGross.txt.hf from	 53833 to	 51821 in	 0.173
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/CiaFactBook2000.txt.hf.hf
+CiaFactBook2000.txt.hf from	 2260664 to	 2240008 in	 9.388
+--------
+total bytes read: 5828112
+total compressed bytes 5747220
+total percent compression 1.388
+compression time: 21.263
+
+calgary results:
+
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/obj1.hf.hf
+obj1.hf from	 17085 to	 17690 in	 0.137
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/trans.hf.hf
+trans.hf from	 66252 to	 66452 in	 0.253
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/pic.hf.hf
+pic.hf from	 107586 to	 72691 in	 0.321
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/book1.hf.hf
+book1.hf from	 439409 to	 435029 in	 1.762
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/paper5.hf.hf
+paper5.hf from	 8465 to	 9019 in	 0.040
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/paper1.hf.hf
+paper1.hf from	 34371 to	 34987 in	 0.168
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/bib.hf.hf
+bib.hf from	 73795 to	 73700 in	 0.251
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/news.hf.hf
+news.hf from	 247428 to	 247029 in	 0.823
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/paper4.hf.hf
+paper4.hf from	 8894 to	 9431 in	 0.042
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/paper3.hf.hf
+paper3.hf from	 28309 to	 28887 in	 0.104
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/progl.hf.hf
+progl.hf from	 44017 to	 44099 in	 0.156
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/progp.hf.hf
+progp.hf from	 31248 to	 31540 in	 0.187
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/book2.hf.hf
+book2.hf from	 369335 to	 368074 in	 1.460
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/paper6.hf.hf
+paper6.hf from	 25057 to	 25698 in	 0.093
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/paper2.hf.hf
+paper2.hf from	 48649 to	 49040 in	 0.168
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/geo.hf.hf
+geo.hf from	 73592 to	 74172 in	 0.247
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/obj2.hf.hf
+obj2.hf from	 195131 to	 194792 in	 0.616
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/progc.hf.hf
+progc.hf from	 26948 to	 27469 in	 0.096
+--------
+total bytes read: 1845571
+total compressed bytes 1809799
+total percent compression 1.938
+compression time: 6.924
+
+As it can be seen all of the compression percent for all these types of files is below 2 percent 
+meaning that compressing an already compressed file leads to not much saved data this means 
+that compression for Standard Count does not do much. 
+
+Next I was curious about jpg and if we can compress a photo and save a lot of bits here is the data:
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/unsamples/JlrgHLxGShs.jpg.hf
+JlrgHLxGShs.jpg from	 3796589 to	 3794938 in	 14.439
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/unsamples/UqG3sKTA6S0.jpg.hf
+UqG3sKTA6S0.jpg from	 3674516 to	 3676449 in	 12.229
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/unsamples/bzv_zCAXgeg.jpg.hf
+bzv_zCAXgeg.jpg from	 6944544 to	 6944475 in	 23.337
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/unsamples/_ADaAUTjALM.jpg.hf
+_ADaAUTjALM.jpg from	 1383594 to	 1371674 in	 4.406
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/unsamples/S7tM9htainY.jpg.hf
+S7tM9htainY.jpg from	 1822683 to	 1823813 in	 5.891
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/unsamples/Qo2E7hgAI-c.jpg.hf
+Qo2E7hgAI-c.jpg from	 1808038 to	 1807422 in	 5.767
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/unsamples/NeJI6GZ08E4.jpg.hf
+NeJI6GZ08E4.jpg from	 1127294 to	 1127561 in	 3.742
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/unsamples/.DS_Store.hf
+.DS_Store from	 10244 to	 3519 in	 0.021
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/unsamples/oDvEoslJnxk.jpg.hf
+oDvEoslJnxk.jpg from	 1904572 to	 1904952 in	 6.014
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/unsamples/UkvGXJDGSVc.jpg.hf
+UkvGXJDGSVc.jpg from	 1773304 to	 1773150 in	 5.589
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/unsamples/WCBeEhZb4H0.jpg.hf
+WCBeEhZb4H0.jpg from	 1153488 to	 1154756 in	 3.856
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/unsamples/hL6PD6YWzeQ.jpg.hf
+hL6PD6YWzeQ.jpg from	 459730 to	 460626 in	 1.664
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/unsamples/uDOuFOucoW4.jpg.hf
+uDOuFOucoW4.jpg from	 4931650 to	 4933127 in	 17.526
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/unsamples/0Ch8-Fpx93M.jpg.hf
+0Ch8-Fpx93M.jpg from	 4345760 to	 4347953 in	 13.949
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/unsamples/0c2aPoLTXHI.jpg.hf
+0c2aPoLTXHI.jpg from	 1741032 to	 1741512 in	 5.663
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/unsamples/Yqx5hh-HSis.jpg.hf
+Yqx5hh-HSis.jpg from	 7640792 to	 7642329 in	 25.905
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/unsamples/evaElghn64Y.jpg.hf
+evaElghn64Y.jpg from	 5168454 to	 5169730 in	 17.543
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/unsamples/3H_2x19c23A.jpg.hf
+3H_2x19c23A.jpg from	 1102871 to	 1103949 in	 3.526
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/unsamples/asA_e2SngC0.jpg.hf
+asA_e2SngC0.jpg from	 1429342 to	 1430480 in	 4.558
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/unsamples/Z7PIEl25aYY.jpg.hf
+Z7PIEl25aYY.jpg from	 2611759 to	 2613159 in	 8.300
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/unsamples/0GblYhcKSm8.jpg.hf
+0GblYhcKSm8.jpg from	 2541441 to	 2535528 in	 10.118
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/unsamples/ZSlOnUo8X1U.jpg.hf
+ZSlOnUo8X1U.jpg from	 834475 to	 835334 in	 2.638
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/unsamples/4poScSfscrw.jpg.hf
+4poScSfscrw.jpg from	 1588939 to	 1587163 in	 4.946
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/unsamples/b0HPoFPYbL8.jpg.hf
+b0HPoFPYbL8.jpg from	 611871 to	 612950 in	 2.079
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/unsamples/CrQg59nlprY.jpg.hf
+CrQg59nlprY.jpg from	 4739221 to	 4739311 in	 15.193
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/unsamples/I-VfAZLv22o.jpg.hf
+I-VfAZLv22o.jpg from	 2208481 to	 2209561 in	 7.147
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/unsamples/hahXhaVSVW4.jpg.hf
+hahXhaVSVW4.jpg from	 4819542 to	 4819457 in	 15.169
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/unsamples/Wa361fDuTdM.jpg.hf
+Wa361fDuTdM.jpg from	 4135816 to	 4137383 in	 13.068
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/unsamples/5ygwnHx5RVY.jpg.hf
+5ygwnHx5RVY.jpg from	 6912804 to	 6914042 in	 22.905
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/unsamples/Rb5S3PUBlXE.jpg.hf
+Rb5S3PUBlXE.jpg from	 3222465 to	 3221808 in	 10.403
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/unsamples/GWXIuwWX3xE.jpg.hf
+GWXIuwWX3xE.jpg from	 4496200 to	 4497358 in	 14.099
+--------
+total bytes read: 90941511
+total compressed bytes 90935469
+total percent compression 0.007
+compression time: 301.690
+
+as we can seen the percent compression is very very low this tells us that a 
+jpg is already very compressed and therefore further compression is not needed 
+using the huffman algorithm
+
+Now I am curious if this algorithm helps a pdf compress further. To get a good representation 
+I compressed a very large pdf of Bottoms Dream by ARNO SCHMIDT. Here are the results: 
+
+compressing to: /u/goyalyug/eclipse-workspace/A10/pdfStuff/Bottom’s Dream (Schmidt, Arno Woods, John E.) (z-lib.org).pdf.hf
+Bottom’s Dream (Schmidt, Arno Woods, John E.) (z-lib.org).pdf from 124383985 to 123850014 in 201.722
+--------
+total bytes read: 124383985
+total compressed bytes 123850014
+total percent compression 0.429
+compression time: 201.722
+
+As it can be seen the data for pdf is already very compressed so no further compression is needed 
+
+I was also wondering if a emoji file can be compressed and here are the results: 
+
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/emoji/emji.txt.hf
+emji.txt from	 5207 to	 3908 in	 0.052
+--------
+total bytes read: 5207
+total compressed bytes 3908
+total percent compression 24.947
+compression time: 0.052
+
+An TXT with just emoji is interesting because you can compress it and save data which means
+we could compress our texts and save data 
+
+NOW I HAVE REPEATED EVERYTHING ABOVE WITH STORE TREE HERE ARE THE RESULTS: 
+
+Books: 
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/melville.txt.hf
+melville.txt from	 82140 to	 46436 in	 0.244
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/A7_Recursion.html.hf
+A7_Recursion.html from	 41163 to	 25298 in	 0.132
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/jnglb10.txt.hf
+jnglb10.txt from	 292059 to	 167720 in	 0.592
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/ThroughTheLookingGlass.txt.hf
+ThroughTheLookingGlass.txt from	 188199 to	 109396 in	 0.371
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/syllabus.htm.hf
+syllabus.htm from	 33273 to	 20448 in	 0.090
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/revDictionary.txt.hf
+revDictionary.txt from	 1130523 to	 610638 in	 2.209
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/CiaFactBook2000.txt.hf
+CiaFactBook2000.txt from	 3497369 to	 2259772 in	 6.989
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/kjv10.txt.hf
+kjv10.txt from	 4345020 to	 2488872 in	 7.943
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/rawMovieGross.txt.hf
+rawMovieGross.txt from	 117272 to	 52831 in	 0.175
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/quotes.htm.hf
+quotes.htm from	 61563 to	 37528 in	 0.126
+--------
+total bytes read: 9788581
+total compressed bytes 5818939
+total percent compression 40.554
+compression time: 18.871
+
+calgary:
+
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/paper6.hf
+paper6 from	 38105 to	 24166 in	 0.149
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/paper1.hf
+paper1 from	 53161 to	 33483 in	 0.155
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/obj1.hf
+obj1 from	 21504 to	 16419 in	 0.069
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/geo.hf
+geo from	 102400 to	 72925 in	 0.262
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/progc.hf
+progc from	 39611 to	 26056 in	 0.102
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/progl.hf
+progl from	 71646 to	 43117 in	 0.158
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/book1.hf
+book1 from	 768771 to	 438503 in	 1.407
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/progp.hf
+progp from	 49379 to	 30352 in	 0.107
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/pic.hf
+pic from	 513216 to	 106785 in	 0.451
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/news.hf
+news from	 377109 to	 246544 in	 0.896
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/paper4.hf
+paper4 from	 13286 to	 7985 in	 0.036
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/bib.hf
+bib from	 111261 to	 72888 in	 0.245
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/paper3.hf
+paper3 from	 46526 to	 27406 in	 0.101
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/paper2.hf
+paper2 from	 82199 to	 47756 in	 0.167
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/paper5.hf
+paper5 from	 11954 to	 7571 in	 0.036
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/obj2.hf
+obj2 from	 246814 to	 194464 in	 0.615
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/trans.hf
+trans from	 93695 to	 65369 in	 0.225
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/calgary/book2.hf
+book2 from	 610856 to	 368448 in	 1.232
+--------
+total bytes read: 3251493
+total compressed bytes 1830237
+total percent compression 43.711
+compression time: 6.413
+
+waterloo: 
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/waterloo/sail.tif.hf
+sail.tif from	 1179784 to	 1084827 in	 3.670
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/waterloo/monarch.tif.hf
+monarch.tif from	 1179784 to	 1109303 in	 3.457
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/waterloo/clegg.tif.hf
+clegg.tif from	 2149096 to	 2033928 in	 6.376
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/waterloo/lena.tif.hf
+lena.tif from	 786568 to	 765479 in	 2.462
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/waterloo/serrano.tif.hf
+serrano.tif from	 1498414 to	 1126952 in	 3.578
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/waterloo/peppers.tif.hf
+peppers.tif from	 786568 to	 756300 in	 2.464
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/waterloo/tulips.tif.hf
+tulips.tif from	 1179784 to	 1135190 in	 3.597
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/waterloo/frymire.tif.hf
+frymire.tif from	 3706306 to	 2187829 in	 6.691
+--------
+total bytes read: 12466304
+total compressed bytes 10199808
+total percent compression 18.181
+compression time: 32.295
+
+Data for compressing a compressed file: 
+
+
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/syllabus.htm.hf.hf
+syllabus.htm.hf from	 20448 to	 20512 in	 0.144
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/A7_Recursion.html.hf.hf
+A7_Recursion.html.hf from	 25298 to	 25160 in	 0.095
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/revDictionary.txt.hf.hf
+revDictionary.txt.hf from	 610638 to	 589259 in	 1.913
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/melville.txt.hf.hf
+melville.txt.hf from	 46436 to	 46082 in	 0.178
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/jnglb10.txt.hf.hf
+jnglb10.txt.hf from	 167720 to	 165499 in	 0.529
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/ThroughTheLookingGlass.txt.hf.hf
+ThroughTheLookingGlass.txt.hf from	 109396 to	 108247 in	 0.351
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/kjv10.txt.hf.hf
+kjv10.txt.hf from	 2488872 to	 2451330 in	 7.722
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/quotes.htm.hf.hf
+quotes.htm.hf from	 37528 to	 37629 in	 0.149
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/rawMovieGross.txt.hf.hf
+rawMovieGross.txt.hf from	 52831 to	 50282 in	 0.220
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/CiaFactBook2000.txt.hf.hf
+CiaFactBook2000.txt.hf from	 2259772 to	 2238536 in	 7.313
+--------
+total bytes read: 5818939
+total compressed bytes 5732536
+total percent compression 1.485
+compression time: 18.614
+
+Pdf Data: 
+
+compressing to: /u/goyalyug/eclipse-workspace/A10/pdfStuff/Bottom’s Dream (Schmidt, Arno Woods, John E.) (z-lib.org).pdf.hf
+Bottom’s Dream (Schmidt, Arno Woods, John E.) (z-lib.org).pdf from 124383985 to 123849347 in 205.916
+--------
+total bytes read: 124383985
+total compressed bytes 123849347
+total percent compression 0.430
+compression time: 205.916
+
+Emoji Data: 
+
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/emoji/emji.txt.hf
+emji.txt from	 5207 to	 2985 in	 0.043
+--------
+total bytes read: 5207
+total compressed bytes 2985
+total percent compression 42.673
+compression time: 0.043
+
+As it can be seen the compression data is relatively the same. 
+Even for the compressing a compressed file we can see that it doesnt further compress it much. 
+
+The last thing I am curious about is if we were to compress something with store count first 
+and then store tree to compress the already compressed file with store count. 
+
+Here are the results: 
+
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/syllabus.htm.hf.hf
+syllabus.htm.hf from	 21342 to	 21174 in	 0.138
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/A7_Recursion.html.hf.hf
+A7_Recursion.html.hf from	 26189 to	 25673 in	 0.109
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/revDictionary.txt.hf.hf
+revDictionary.txt.hf from	 611618 to	 590182 in	 2.073
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/melville.txt.hf.hf
+melville.txt.hf from	 47364 to	 46885 in	 0.167
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/jnglb10.txt.hf.hf
+jnglb10.txt.hf from	 168618 to	 166500 in	 0.533
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/ThroughTheLookingGlass.txt.hf.hf
+ThroughTheLookingGlass.txt.hf from	 110293 to	 108960 in	 0.351
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/kjv10.txt.hf.hf
+kjv10.txt.hf from	 2489768 to	 2452313 in	 8.639
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/quotes.htm.hf.hf
+quotes.htm.hf from	 38423 to	 38369 in	 0.137
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/rawMovieGross.txt.hf.hf
+rawMovieGross.txt.hf from	 53833 to	 51144 in	 0.172
+compressing to: /Users/yugamgoyal/eclipse-workspace/CS314A10PT2/BooksAndHTML/CiaFactBook2000.txt.hf.hf
+CiaFactBook2000.txt.hf from	 2260664 to	 2239341 in	 7.299
+--------
+total bytes read: 5828112
+total compressed bytes 5740541
+total percent compression 1.503
+compression time: 19.618
+
+This is very interesting because this means that mixing the header styles does not lead to a better 
+result
+
+Something I noticed is that when there is a even distribution for the frequency then there is 
+no need for the compression as it still takes eight bits to save each of them. Whenever there is a 
+skewed distribution then you should compress and it should save bits since there will be things that 
+have a high frequency so it will be higher up on the HuffMan tree and use less bits to save 
+
+
+Author of file: Yugam Goyal
+
+
+
